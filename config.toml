@@ -1,5 +1,5 @@
 baseURL = "https://kubernetes.io"
-title = "Kubernetes"
+title = "Suffragette"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
